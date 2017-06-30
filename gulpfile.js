@@ -52,3 +52,7 @@ gulp.task('watch', function () {
 gulp.task('default', ['build'], function () {
     gulp.start('watch');
 });
+
+gulp.task('zip', ['css'], function() {
+    
+});

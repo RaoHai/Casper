@@ -590,8 +590,11 @@ The first (most recent) post in the list is styled to be bigger than the others 
     margin: 0 auto;
     padding: 70px 100px 0;
     min-height: 230px;
-    font-family: Georgia, serif;
-    font-size: 2.2rem;
+    color: #333;
+    font-family: 'source-han-sans-simplified-c', 'PingFang SC', 'Hiragino Sans GB', 'PingHei',
+        'Open Sans', sans-serif, Helvetica Neue, 'Work Sans', 'Microsoft YaHei',
+        SimSun;
+    font-size: 16px;
     line-height: 1.6em;
     background: #fff;
 }
