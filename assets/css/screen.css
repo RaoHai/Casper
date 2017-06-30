@@ -436,6 +436,13 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .post-card-excerpt {
     font-family: Georgia, serif;
 }
+.post-card-excerpt p {
+    color: #333;
+    font-family: 'source-han-sans-simplified-c', 'PingFang SC', 'Hiragino Sans GB', 'PingHei',
+        'Open Sans', sans-serif, Helvetica Neue, 'Work Sans', 'Microsoft YaHei',
+        SimSun;
+    font-size: 16px !important;
+}
 
 .post-card-meta {
     padding: 0 25px 25px;
